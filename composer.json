@@ -1,18 +1,25 @@
 {
-    "name": ":vendor/:package_name",
+    "name": "aguimaraes/bureaucrat",
     "type": "library",
-    "description": ":package_description",
+    "description": "Failure is my thing",
     "keywords": [
-        ":vendor",
-        ":package_name"
+        "aguimaraes",
+        "bureaucrat",
+        "failure",
+        "retry",
+        "circuitbreaker",
+        "circuit breaker",
+        "failsafe",
+        "fail handler",
+        "failure handler"
     ],
-    "homepage": "https://github.com/:vendor/:package_name",
+    "homepage": "https://github.com/aguimaraes/bureaucrat",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Alvaro Guimaraes",
+            "email": "alvaroguimaraes@gmail.com",
+            "homepage": "https://github.com/aguimaraes",
             "role": "Developer"
         }
     ],
@@ -25,12 +32,12 @@
     },
     "autoload": {
         "psr-4": {
-            ":vendor\\:package_name\\": "src"
+            "Aguimaraes\\Bureaucrat\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            ":vendor\\:package_name\\": "tests"
+            "Aguimaraes\\Bureaucrat\\": "tests"
         }
     },
     "scripts": {
