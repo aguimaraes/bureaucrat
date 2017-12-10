@@ -10,6 +10,8 @@
 
 Failure handling for PHP. I would add "elegant" here, but I don't lie.
 
+Don't use it, work in progress.
+
 ## Install
 
 Via Composer
