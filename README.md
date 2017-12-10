@@ -8,7 +8,7 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-Failure handling for PHP. I would add "elegant" here, but I don't know what it means.
+Failure handling for PHP. I would add "elegant" here, but I don't lie.
 
 ## Install
 
